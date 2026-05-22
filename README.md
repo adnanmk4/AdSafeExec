@@ -103,3 +103,7 @@ python SafeExec/test_scan.py
 - `SafeExec/data/threat_intelligence.json` stores local threat intelligence used during scanning.
 - The model is loaded and reused for faster scans.
 
+- <img height="200" alt="image" src="https://github.com/user-attachments/assets/1a6d7b93-788c-4bd7-b878-1a3ea45c8b06" />
+
+
+
