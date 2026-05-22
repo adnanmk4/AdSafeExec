@@ -104,6 +104,10 @@ python SafeExec/test_scan.py
 - The model is loaded and reused for faster scans.
 
 - <img height="200" alt="image" src="https://github.com/user-attachments/assets/1a6d7b93-788c-4bd7-b878-1a3ea45c8b06" />
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/dce424df-1f79-4e2c-bb7e-f77e7ee98ca0" />
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/f1925bdd-925b-49a7-808b-f1166f27a612" />
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/d8c5e2c2-3e13-421b-acad-a0a625b27dce" />
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/651176dd-8c11-4458-9bb9-3ea7f5b597d9" />
 
 
 
